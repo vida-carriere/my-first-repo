@@ -1,3 +1,3 @@
 # my-first-repo
 My first repository
-Making a few changes
+A simple website created to practice GitHub collaboration.
